@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+/* Remove default React styles - we're using our custom design */
+.App-logo {
+  display: none;
+}
+
+.App-header {
+  display: none;
+}
+
+.App-link {
+  display: none;
+}
+
+/* Ensure our landing page takes full control */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.App {
+  width: 100%;
+  min-height: 100vh;
+}
