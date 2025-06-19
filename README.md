@@ -18,7 +18,7 @@ Frontend (React) → ProducerService (Spring Boot) → Kafka → ConsumerService
 ## 🛠️ Tech Stack
 
 ### Frontend
-
+![image](https://github.com/user-attachments/assets/79ee17c4-fa52-4550-bf28-ff3b65ec29b3)
 - **React 18.2.0**
 - **JavaScript/CSS**
 - **Create React App**
@@ -64,7 +64,11 @@ Choose one of the following deployment options:
 #### Option 3: Local Setup
 
 - Apache Kafka installed locally
+![image](https://github.com/user-attachments/assets/7a85966f-c440-4963-b437-c1b680f9f278)
+
 - Prometheus installed locally
+![image](https://github.com/user-attachments/assets/0007cc25-c1e6-46ee-a322-cc4673543452)
+
 - Grafana installed locally
 
 ## 🚀 Quick Start
